@@ -1,2 +1,1 @@
-web: python -m uvicorn main:app --reload
-
+web: uvicorn main:app
